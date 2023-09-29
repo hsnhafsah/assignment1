@@ -75,6 +75,7 @@ This web application enables users to register and view user data. It consists o
 
 ## Technologies Used
    - PHP
+   - HTML
    - MySQL
    - PDO (PHP Data Objects)
    - Bootstrap for styling
