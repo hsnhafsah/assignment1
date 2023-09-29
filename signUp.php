@@ -11,6 +11,11 @@
             min-height: 100vh;
             display: flex;
             justify-content: center;
+            font-size: 25px; 
+        }
+        
+        .form-control {
+            font-size: 20px; 
         }
     </style>
 </head>
