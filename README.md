@@ -110,7 +110,7 @@ These error messages play a crucial role in user feedback, ensuring that users u
 ## Technologies Used
 
    - PHP
-   - MySQL or another compatible database
+   - MySQL
    - PDO (PHP Data Objects)
    - Bootstrap for styling
 
