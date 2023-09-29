@@ -87,7 +87,7 @@ if ($password !== $confirm_password) {
 }
 
 if (!empty($error_message)) {
-    echo "<div style='background-color: white; color: black; padding: 5px 10px; text-align: center; border-radius: 20px; margin: 10px; max-width: 250px; max-height: 150px;'>";
+    echo "<div style='background-color: white; color: black; padding: 5px 10px; text-align: center; border-radius: 20px; margin: 10px; max-width: 250px; max-height: 300px;'>";
     echo $error_message;
     echo "<br>You will be automatically redirected to the registration page. If not, <a href='../signUp.php' style='color: black; text-decoration: underline;'>click here</a>.";
     echo "</div>";    
