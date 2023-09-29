@@ -8,7 +8,6 @@
     <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
 
     <style>
-     
         body {
             background: linear-gradient(45deg, purple, orange);
         }
@@ -19,6 +18,11 @@
             align-items: center;
             justify-content: center;
             min-height: 100vh;
+            font-size: 30px;
+        }
+
+        h1 {
+            font-size: 57px; 
         }
     </style>
 </head>
@@ -29,7 +33,6 @@
         <p class="text-center">If you'd like to sign up and become a member, please click the following link:</p>
         <a href="signUp.php" class="btn btn-primary btn-lg">Sign Up</a>
     </div>
-
 
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 </body>
